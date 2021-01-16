@@ -31,6 +31,7 @@ public class Main {
 		FrontUI ui = new FrontUI(scanner, uiList);
 		ui.show();
 		
+		System.out.println("1---------------------------------");
 		
 		
 	}//end main
