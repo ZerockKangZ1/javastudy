@@ -40,12 +40,6 @@ public class Main {
 		System.out.println("3...................................on Mac");
 
 		System.out.println("4th ----------------------------------on Mac");
-<<<<<<< HEAD
-		
-		
-		
-=======
->>>>>>> branch 'master' of https://github.com/ZerockKangZ1/javastudy.git
 		
 		
 	}//end main
