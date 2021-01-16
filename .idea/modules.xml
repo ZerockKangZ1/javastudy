@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kiosk/kiosk.iml" filepath="$PROJECT_DIR$/kiosk/kiosk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kioskServer/kioskServer.iml" filepath="$PROJECT_DIR$/kioskServer/kioskServer.iml" />
+    </modules>
+  </component>
+</project>
