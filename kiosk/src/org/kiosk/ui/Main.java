@@ -36,7 +36,8 @@ public class Main {
 		System.out.println("2---------------------------------");
 		
 		System.out.println("3------------------------------on Windows");
-		
+
+		System.out.println("3...................................on Mac");
 		
 		
 	}//end main
