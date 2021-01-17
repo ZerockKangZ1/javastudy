@@ -20,5 +20,7 @@ public class Main {
 		
 		storeServer.runServer();
 		
+		System.out.println("1----------------------------");
+		
 	}
 }
